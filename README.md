@@ -1,1 +1,1 @@
-This is Entity Framework 6 Database First using MVC 5 project that incluse CRUD operation.
+ASP.NET MVC 5 Entity Framework 6 that includes CRUD operation. Database first approach.
